@@ -3,3 +3,11 @@
     padding: 0%;
     box-sizing: border-box;
 }
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    padding: 10px;
+    background-color: #282c34;
+    min-height: 100vh;
+}
