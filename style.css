@@ -29,3 +29,22 @@ header, nav, footer {
     font-size: 20px;
     margin-top: 20px;
 }
+.coteudo{
+    display: flex;
+    flex: 1;
+    gap: 20px;
+}
+.secao-principal{
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+    gap: 20px;
+}
+.secao-principal, .artigo-secao {
+    background-color: #ffa500;
+    padding:20px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
